@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>そうせいチャット STG</title>
+    <item>
+      <title>Version 1.4.1</title>
+      <sparkle:version>1.4.1</sparkle:version>
+      <pubDate>Wed, 27 May 2026 06:54:19 +0900</pubDate>
+      <enclosure
+        url="https://github.com/sousei-dev/sousei-releases/releases/download/stg.1.4.1/sousei_app_staging_setup_1.4.1.exe"
+        sparkle:version="1.4.1"
+        length="12389933"
+        type="application/octet-stream"
+      />
+    </item>
+  </channel>
+</rss>
