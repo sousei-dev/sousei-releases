@@ -3,13 +3,13 @@
   <channel>
     <title>そうせいチャット</title>
     <item>
-      <title>Version 1.9.6</title>
-      <sparkle:version>1.9.6</sparkle:version>
-      <pubDate>Tue, 09 Jun 2026 02:40:35 +0900</pubDate>
+      <title>Version 2.0.0</title>
+      <sparkle:version>2.0.0</sparkle:version>
+      <pubDate>Wed, 10 Jun 2026 09:10:28 +0900</pubDate>
       <enclosure
-        url="https://github.com/sousei-dev/sousei-releases/releases/download/v.1.9.6/sousei_app_setup_1.9.6.exe"
-        sparkle:version="1.9.6"
-        length="12520989"
+        url="https://github.com/sousei-dev/sousei-releases/releases/download/v.2.0.0/sousei_app_setup_2.0.0.exe"
+        sparkle:version="2.0.0"
+        length="12505088"
         type="application/octet-stream"
       />
     </item>
