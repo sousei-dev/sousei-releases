@@ -5,11 +5,11 @@
     <item>
       <title>Version 2.1.8</title>
       <sparkle:version>2.1.8</sparkle:version>
-      <pubDate>Mon, 29 Jun 2026 08:05:17 +0900</pubDate>
+      <pubDate>Mon, 29 Jun 2026 08:29:54 +0900</pubDate>
       <enclosure
         url="https://github.com/sousei-dev/sousei-releases/releases/download/stg.2.1.8/sousei_app_staging_setup_2.1.8.exe"
         sparkle:version="2.1.8"
-        length="12581891"
+        length="12584313"
         type="application/octet-stream"
       />
     </item>
