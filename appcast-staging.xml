@@ -3,13 +3,13 @@
   <channel>
     <title>そうせいチャット STG</title>
     <item>
-      <title>Version 2.1.5</title>
-      <sparkle:version>2.1.5</sparkle:version>
-      <pubDate>Mon, 29 Jun 2026 05:58:38 +0900</pubDate>
+      <title>Version 2.1.6</title>
+      <sparkle:version>2.1.6</sparkle:version>
+      <pubDate>Mon, 29 Jun 2026 07:18:55 +0900</pubDate>
       <enclosure
-        url="https://github.com/sousei-dev/sousei-releases/releases/download/stg.2.1.5/sousei_app_staging_setup_2.1.5.exe"
-        sparkle:version="2.1.5"
-        length="12594133"
+        url="https://github.com/sousei-dev/sousei-releases/releases/download/stg.2.1.6/sousei_app_staging_setup_2.1.6.exe"
+        sparkle:version="2.1.6"
+        length="12591013"
         type="application/octet-stream"
       />
     </item>
